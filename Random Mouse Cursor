@@ -1,0 +1,3 @@
+
+local UserInputService = game:GetService("UserInputService")
+UserInputService.MouseIcon = "rbxassetid://3400146391"
